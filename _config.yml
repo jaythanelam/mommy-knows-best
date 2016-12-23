@@ -1,23 +1,23 @@
 # Site settings
-email: 
+email: jen@mommyknowsbest.co
 baseurl: ""
-paginate: 5
+paginate: 10
 paginate_path: "/blog/page-:num"
-google_analytics: 
+google_analytics: UA-67545206-1
 
 # SEO settings
-title: Trophy
-description: 
-url: ""
+title: Mommy Knows Best
+description: Jennifer Elam's online blog about being a mother, her observations of daily life, and her interactions with the products that are supposed to make it all better.
+url: "http://www.mommyknowsbest.co"
 twitter_username: 
-default_img: 
+default_img: "/assets/mkb-logo-02.png"
 
 # Profile settings
-name: 
-profile_img: 
-profile: 
+name: Jennifer Elam
+profile_img: "/assets/profile-pic-png"
+profile: My online blog about being a mother, my observations of daily life, and my interactions with the products that are supposed to make it all better.
 social:
-  github: 
+github:
 
 # Build settings
 include: ["_categories"]
