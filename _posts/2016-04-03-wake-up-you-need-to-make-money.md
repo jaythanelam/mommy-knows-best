@@ -2,7 +2,6 @@
 layout: post
 title: wake up you need to make money!!!
 date: 2016-04-03
-type: post
 categories:
 - All me
 description:
