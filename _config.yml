@@ -1,6 +1,6 @@
 # Site settings
 email: jen@mommyknowsbest.co
-baseurl: "https://jaythanelam.github.io/"
+baseurl: ""
 paginate: 10
 paginate_path: "/blog/page-:num"
 google_analytics: UA-67545206-1
