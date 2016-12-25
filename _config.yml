@@ -1,6 +1,6 @@
 # Site settings
 email: jen@mommyknowsbest.co
-baseurl: "https://jaythanelam.github.io/mommy-knows-best/"
+baseurl: ""
 paginate: 10
 paginate_path: "/blog/page-:num"
 google_analytics: UA-67545206-1
@@ -10,11 +10,11 @@ title: Mommy Knows Best
 description: Jennifer Elam's online blog about being a mother, her observations of daily life, and her interactions with the products that are supposed to make it all better.
 url: "http://www.mommyknowsbest.co"
 twitter_username:
-default_img: /assets/mkb-logo-02.png
+default_img: /assets/images/mkb-logo-02.png
 
 # Profile settings
 name: Jennifer Elam
-profile_img: /assets/tn-titans.jpg
+profile_img: /assets/images/tn-titans.jpg
 profile: My online blog about being a mother, my observations of daily life, and my interactions with the products that are supposed to make it all better.
 social:
 github:
