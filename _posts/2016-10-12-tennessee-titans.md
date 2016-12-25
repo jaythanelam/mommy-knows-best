@@ -4,8 +4,8 @@ title: "Tennessee Titans!"
 date: 2016-10-12
 categories:
 description:
-image: /assets/posts/tennessee-titans/tn-titans.jpg
-image-sm: /assets/posts/tennessee-titans/tn-titans.jpg
+image: /assets/images/tn-titans.jpg
+image-sm: /assets/images/tn-titans.jpg
 ---
 A new study just came out about how<a href="http://www.parents.com/toddlers-preschoolers/everything-kids/happiest-parents-have-four-or-more-kids-study-says/"> larger families are happier</a> YAY! Finally support for the other side LOL! and not just large but 4 or more kiddos! My interest was peaked! Of course the caveat to this experiment is that these parents are happier because they <em>planned</em> a large family, <em>had</em> a large family, and then reaped the rewards of that big ass family... J and I didn't ever plan the "party of 6" so where are we on that happiness meter!?!
 
