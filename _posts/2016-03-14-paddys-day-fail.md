@@ -13,8 +13,8 @@ Alright team, I've tried! GOD KNOWS I'VE TRIED! I've embraced staying at home. I
 
 These are the adorable pics - The Pinterest "it's so easy" pics.
 
-<img src="/assets/images/paddys-day01.jpeg" style="width: 200px;"/>
-<img src="/assets/images/paddys-day02.jpeg" style="width: 245px;"/>
+<img src="https://jaythanelam.github.io/mommy-knows-best/assets/images/paddys-day01.jpeg" style="width: 200px;"/>
+<img src="https://jaythanelam.github.io/mommy-knows-best/assets/images/paddys-day02.jpeg" style="width: 245px;"/>
 
 Now these are my creations -
 
