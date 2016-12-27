@@ -5,8 +5,8 @@ date: 2016-03-09
 categories:
 - Family
 description:
-image: 'https://jaythanelam.github.io/mommy-knows-best/assets/images/paddys-day-fail.jpg'
-image-sm: 'https://jaythanelam.github.io/mommy-knows-best/assets/images/paddys-day-fail.jpg'
+image: 'https://jaythanelam.github.io/mommy-knows-best/assets/images/places-youll-go.jpg'
+image-sm: 'https://jaythanelam.github.io/mommy-knows-best/assets/images/places-youll-go.jpg'
 ---
 
 I watched a video the other day that was so moving, it actually moved me right off the couch to go and find our old copy of Dr. Seuss's <a href="http://www.amazon.com/Oh-Places-Youll-Dr-Seuss/dp/0679805273/ref=sr_1_1?ie=UTF8&amp;qid=1457548644&amp;sr=8-1&amp;keywords=oh+the+places+you%27ll+go+by+dr.+seuss">OH, the Places You'll GO!</a>
