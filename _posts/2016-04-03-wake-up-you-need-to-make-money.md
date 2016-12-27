@@ -5,8 +5,8 @@ date: 2016-04-03
 categories:
 - All me
 description:
-image: "/assets/wakeup-make-money.jpg"
-image-sm: "/assets/wakeup-make-money.jpg"
+image: 'https://jaythanelam.github.io/mommy-knows-best/assets/images/wakeup-make-money.jpg'
+image-sm: 'https://jaythanelam.github.io/mommy-knows-best/assets/images/wakeup-make-money.jpg'
 ---
 I'm looking at going back to school. While it's been on the docket for awhile - ok, like a decade - I guess I need to get my big girl panties on and just get-er-done! Full Disclosure, even just typing the words "going back to school" makes my stomach roll. Don't get me wrong,
 
