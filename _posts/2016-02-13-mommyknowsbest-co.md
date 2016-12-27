@@ -5,8 +5,8 @@ date: 2016-02-13
 categories:
 - All me
 description:
-image: 'https://jaythanelam.github.io/mommy-knows-best/assets/images/nailed-it.jpg'
-image-sm: 'https://jaythanelam.github.io/mommy-knows-best/assets/images/nailed-it.jpg'
+image: 'https://jaythanelam.github.io/mommy-knows-best/assets/images/parents.jpg'
+image-sm: 'https://jaythanelam.github.io/mommy-knows-best/assets/images/parents.jpg'
 ---
 
 <img src="https://jaythanelam.github.io/mommy-knows-best/assets/images/mommyknowsbestco-parents.jpeg" style="width: 300px;"/>
