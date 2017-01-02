@@ -14,9 +14,6 @@ I realize this is a little off the beaten path from our baby-product-bonanza, b
 
 ![Sleepy Bear](https://jaythanelam.github.io/mommy-knows-best/assets/images/sleepy-pod-bear.jpg "Sleepy Bear")
 
-
-<p><img class="alignnone size-medium wp-image-131" src="{{ site.baseurl }}/assets/2014-12-10-21.10.38-225x300.jpg" alt="2014-12-10 21.10.38" width="225" height="300" /></p>
-
 Now, as you know our family motto is: "GO BIG! OR GO HOME!" and we did just that when we bought our cute little ball of fur last Christmas.  Bear is decidedly bigger now :):O
 
 I started looking for a doggy-seatbelt and was really surprised at how many don't hold up in the event of a crash.  I mean really, if it's going to break when things go south, why even go through with the trouble... That's when I found the <a href="http://sleepypod.com/">Sleepy Pod</a>'s line of harnesses, I was completely impressed with the craftsmanship of the material as well as the customer service (they walked me through what Bear would need - no easy task coming at it from opposite ends of the country)
