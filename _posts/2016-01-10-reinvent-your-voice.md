@@ -9,7 +9,7 @@ image: 'https://jaythanelam.github.io/mommy-knows-best/assets/images/your-voice.
 image-sm: 'https://jaythanelam.github.io/mommy-knows-best/assets/images/your-voice.jpg'
 ---
 
-<img src="https://jaythanelam.github.io/mommy-knows-best/assets/images/your-voice-family.jpeg" style="width: 300px;"/>
+<img src="https://jaythanelam.github.io/mommy-knows-best/assets/images/your-voice-family.jpg" style="width: 300px;"/>
 
 I started out in the sciences. I LOVED the "why's" of how the world fit together and the elemental building blocks that work together to make a whole. Funnily enough, it's not that far off from where I am now, only instead of basic elements - we're growing little people :) We have 4 kiddos - 2,4,6 and 8 - who at any given moment astound, inspire, aggravate, and completely humble me.
 

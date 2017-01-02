@@ -14,6 +14,6 @@ Yep you guessed it! We hand another productive morning where the combination of 
 
 This is Bear after capture...
 
-<img src="https://jaythanelam.github.io/mommy-knows-best/assets/images/lose-lbs-dog.jpeg" style="width: 225px;"/>
+<img src="https://jaythanelam.github.io/mommy-knows-best/assets/images/lose-lbs-dog.jpg" style="width: 225px;"/>
 
-On a happier note - HELLO FRIDAY!!!!</p>
+On a happier note - HELLO FRIDAY!!!!

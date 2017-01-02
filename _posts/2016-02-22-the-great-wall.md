@@ -13,7 +13,7 @@ I feel like walls have been all the rage lately. Trump says build a wall. The Va
 
 So, here it is - we're all trying to make it and IT'S HARD! It's sooo much harder than I ever thought! But I know you're out there fighting to get yourself together and your kids in a better place! I think we all need to throw out alittle love and support today! Here's mine!
 
-<img src="https://jaythanelam.github.io/mommy-knows-best/assets/images/great-wall-mine.jpeg" style="width: 225px;"/>
+<img src="https://jaythanelam.github.io/mommy-knows-best/assets/images/great-wall-mine.jpg" style="width: 225px;"/>
 
 Go out and make it a kick ass Monday! 😘😘😘😍😍😍👏👏
 

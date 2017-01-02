@@ -9,7 +9,7 @@ image: 'https://jaythanelam.github.io/mommy-knows-best/assets/images/parents.jpg
 image-sm: 'https://jaythanelam.github.io/mommy-knows-best/assets/images/parents.jpg'
 ---
 
-<img src="https://jaythanelam.github.io/mommy-knows-best/assets/images/mommyknowsbestco-parents.jpeg" style="width: 300px;"/>
+<img src="https://jaythanelam.github.io/mommy-knows-best/assets/images/mommyknowsbestco-parents.jpg" style="width: 300px;"/>
 
 My parents are in town... Does anyone else not get a thing done with family in town!!!?!? It's such a blessing to have them come up. We don't have live-in or even live-close grandparents so to have visiting-loving grandparents that are not only willing to take the kids but enjoy them while they're out! - it's a game changer almost enough to make us want to move closer :)
 
