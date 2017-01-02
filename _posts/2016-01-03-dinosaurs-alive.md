@@ -9,10 +9,10 @@ image: 'https://jaythanelam.github.io/mommy-knows-best/assets/images/dinosaurs.j
 image-sm: 'https://jaythanelam.github.io/mommy-knows-best/assets/images/dinosaurs.jpg'
 ---
 
-![Dinosaur Noah](/assets/images/dino-noah.jpg "Dinosaur Noah")
+![Dinosaur Noah](https://jaythanelam.github.io/mommy-knows-best/assets/images/dino-noah.jpg "Dinosaur Noah")
 
 [Discover the Dinosaurs!](http://www.discoverthedinosaurs.com/) was such a hit for our family! The entire exhibit was set up to be truly interactive and the life-size models were simply awesome! We walked through completely immersed in each scene as the brachiosaurus and T-Rex roared and leaned toward us! Noah, our resident 9-year old soaked up the interactive controllers where he could manipulate each gargantuan model to move and roar! A ride on Stegosaurus and keep-your-find fossil dig wrapped the day for us!!
-![Dinosaur petting](/assets/images/dino-petting.jpg "Dinosaur petting")
+![Dinosaur petting](https://jaythanelam.github.io/mommy-knows-best/assets/images/dino-petting.jpg "Dinosaur petting")
 
 Definitely gets this mommy's seal of approval!!
 
